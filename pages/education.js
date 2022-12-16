@@ -2,9 +2,9 @@ import React from 'react';
 
 const EducationItem = ({ education }) => (
   <li>
-    <h3>{education.degree}</h3>
-    <p>{education.school}</p>
-    <p>{education.dates}</p>
+    <h3>{University of Kentucky}</h3>
+    <p>{Southern Methodist Unitversity full stack development bootcamp}</p>
+    
   </li>
 );
 
